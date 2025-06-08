@@ -1,0 +1,12 @@
+think about python decorator with function  - smart use of decorator
+
+
+next class in thursday 18:00  if we cant so 19:00 or friday 9 or 10 
+
+next time we will talk about python devorator..... 
+  
+  bash - basic
+  docker - basic
+  python - a little 
+
+  next time: jenkins  
